@@ -24,7 +24,7 @@ h1 {
 .ProjectImg {
     position: relative;
     z-index: -1;
-    width: 80%;
+    width: 100%;
     height: 80%;
 }
 .ProjectLink {
