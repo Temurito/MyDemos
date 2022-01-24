@@ -14,6 +14,7 @@ h1 {
     align-items: center;
 }
 .ProjectDiv {
+    overflow: hidden;
     width: 500px;
     height: 500px;
     border: 1px solid grey;
@@ -22,8 +23,6 @@ h1 {
     text-align: start;
 }
 .ProjectImg {
-    position: relative;
-    z-index: -1;
     width: 100%;
     height: 250px;
 }
